@@ -1,1 +1,10 @@
-
+{
+  "id": "number",
+  "title": "text",
+  "severity": "low, minor, major, critical",
+  "priority": "low, medium, high",
+  "steps to reproduce": "steps",
+  "result": "text",
+  "expected result": "text",
+  "attachments": "link, photo, video"
+}
